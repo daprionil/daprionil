@@ -11,7 +11,7 @@ Me encuentro orientado a el desarrollo de lado del **Frontend** realizando de fo
 Actualmente me encuentro direccionado a aportar mucho más al Desarrollo Web implementando nuevas formas de su arquitectura con el uso de **AI**.
 
 ### Mi experiencia Codeadora 😄
-Desde el transcurso de mi **carrera tecnológica** en la Universidad me vi impactado por la programación y desde mis 16 años comenzó mi introducción a este mundo 🌱; En la Universidad adquirí la **vocación Tech** y la capacidad **resolutiva de problemas** ⚡, posterior a esto adquirí conocimientos por más de un año de forma autodidacta y seguido consolidé mis habilidades con el **Bootcamp de Soy Henry** en donde cursé más de 800 horas para ser una profesional aún más productivo como **Desarrollador web Full Stack** 
+Desde el transcurso de mi **carrera tecnológica** en la Universidad me vi impactado por la programación y desde mis 16 años comenzó mi introducción a este mundo 🌱; En la Universidad adquirí la **vocación Tech** y la capacidad **resolutiva de problemas** ⚡, posterior a esto adquirí conocimientos por más de un año de forma autodidacta y seguido consolidé mis habilidades con el **Bootcamp de Soy Henry** en donde cursé más de 800 horas para ser un profesional aún más productivo como **Desarrollador web Full Stack** 
 
 ---
 
