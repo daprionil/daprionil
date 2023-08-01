@@ -3,7 +3,7 @@ Soy un **Desarrollador web** entusiasmado por la tecnología y su código; me ma
 
 ### ¿Cuál es mi enfoque 🤔?
 
-Me encuentro orientado a el desarrollo de lado del **Frontend** realizando de forma activa proyectos académicos con tecnologías cómo:
+Me encuentro orientado a el **Desarrollo web** realizando proyectos académicos de forma activa con tecnologías cómo:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
