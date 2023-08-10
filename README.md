@@ -28,7 +28,7 @@ Desde el transcurso de mi **carrera tecnológica** en la Universidad me vi impac
 
 #### Si estás interesado en mi perfil, ¡ No dudes en Contactarme!
 Recuerda que Juntos podríamos ejecutar una idea que logre impactar a miles de personas.
-
+* [Portafolio web](https://portfolio-daprionil.vercel.app/)
 * [Mi perfil de LinkedIn](www.linkedin.com/in/david-santiago-bulla-díaz-b5829a250)
 * **correo:** bulla.d.david@gmail.com
 
